@@ -1,11 +1,10 @@
-- 👋 Hi, I’m Richard
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning  HTML | CSS | Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 linkedin.com/in/richard-de-jesus-088a60245
-- richard.email.pessoal@gmail.com
-
-<!---
-RichardRodriguesGomesDeJesus/RichardRodriguesGomesDeJesus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Oi sou Richard Rodrigues  
+- 👀 Eu sou interessado em Desenvolvimento web
+- 🌱 Atualmente estudo React| TypeScript
+- 📫 richard.email.pessoal@gmail.com
+- www.linkedin.com/in/Richard-Rodriegues
+<div align="center">
+  <a href="https://github.com/RichardRodriguesGomesDeJesus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardRodriguesGomesDeJesus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardRodriguesGomesDeJesus&layout=compact&langs_count=7&theme=dark"/>
+</div>
