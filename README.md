@@ -2,7 +2,7 @@
  <img  align="right" src="https://user-images.githubusercontent.com/105460212/203666598-197b12bc-ddce-41b0-99d9-a93cb5e3041a.gif" height='150' width='200' />
  - 👀 Eu sou interessado em Desenvolvimento web 
  <br/>
- - 🌱 Atualmente estudo React | TypeScript
+ - 🌱 Atualmente estudo Next js | React
  <br/>
  - 📫 richard.email.pessoal@gmail.com
  <br/>
