@@ -4,7 +4,7 @@
  <br/>
  - 🌱 Atualmente estudo Next js | React
  <br/>
- - 📫 richard.email.pessoal@gmail.com
+ - 📫 richard.gj.rodrigues@gmail.com
  <br/>
  - www.linkedin.com/in/Richard-Rodriegues
 <br/>
