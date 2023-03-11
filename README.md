@@ -4,7 +4,7 @@
  <br/>
  - 🌱 Atualmente estudo Next js | React
  <br/>
- - 📫 richard.gj.rodrigues@gmail.com
+ - 📫 https://richard-rodrigues-dev.vercel.app/
  <br/>
  - www.linkedin.com/in/Richard-Rodriegues
 <br/>
