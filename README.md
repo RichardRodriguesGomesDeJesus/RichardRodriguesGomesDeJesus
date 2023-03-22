@@ -1,8 +1,8 @@
-## Oi sou Richard Rodrigues  
+## Hi my name is Richard Rodrigues  
  <img  align="right" src="https://user-images.githubusercontent.com/105460212/203666598-197b12bc-ddce-41b0-99d9-a93cb5e3041a.gif" height='150' width='200' />
- - 👀 Eu sou interessado em Desenvolvimento web 
+ - 👀 I am interested in Web Development
  <br/>
- - 🌱 Atualmente estudo Next js | React
+ - 🌱 Currently studying Next js | To react
  <br/>
  - 📫 https://richard-rodrigues-dev.vercel.app/
  <br/>
