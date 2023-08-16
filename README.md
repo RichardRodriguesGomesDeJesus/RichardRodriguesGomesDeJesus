@@ -4,7 +4,7 @@
  <br/>
  - 🌱 Currently studying Next js | To react
  <br/>
- - 📫 https://richard-rodrigues-dev.vercel.app/
+ - 📫 https://www.devrichard.com.br/
  <br/>
  - www.linkedin.com/in/Richard-Rodriegues
 <br/>
