@@ -8,13 +8,6 @@
  <br/>
  - www.linkedin.com/in/Richard-Rodriegues
 <br/>
-<div>
-  <br/>
-  <a href="https://github.com/RichardRodriguesGomesDeJesus">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RichardRodriguesGomesDeJesus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardRodriguesGomesDeJesus&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <br/>
 <div width="100em" align="center">
   <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rect/rect-original.svg"  height='30' width='40' />
